@@ -1,0 +1,3 @@
+# Disqus Config
+disqus:
+  shortname: your_disqus_shortname
